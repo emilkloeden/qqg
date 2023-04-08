@@ -8,4 +8,4 @@ pipx install qqg
 
 # Usage
 
-qqg "search terms"
+search "search terms"
